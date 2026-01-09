@@ -1,2 +1,2 @@
 # SvNyFancy-Privacy-Policy
-Privacy policy for SvNyFancy platform
+Политика конфиденциальности для OAuth через Pinterest
